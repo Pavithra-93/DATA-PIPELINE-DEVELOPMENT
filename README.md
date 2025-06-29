@@ -12,7 +12,9 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-##DESCRIPTION:In this project, I developed a complete data preprocessing pipeline using Python and the PyCharm integrated development environment (IDE). The goal was to create an end-to-end ETL (Extract, Transform, Load) workflow that prepares raw tabular data for machine learning tasks in a clean, automated, and reproducible way. The pipeline was implemented in a single Python script, demonstrating how modern data science libraries can be combined to solve practical data preparation challenges efficiently.
+## DESCRIPTION:
+
+In this project, I developed a complete data preprocessing pipeline using Python and the PyCharm integrated development environment (IDE). The goal was to create an end-to-end ETL (Extract, Transform, Load) workflow that prepares raw tabular data for machine learning tasks in a clean, automated, and reproducible way. The pipeline was implemented in a single Python script, demonstrating how modern data science libraries can be combined to solve practical data preparation challenges efficiently.
 
 The process begins with the Extract step. In this phase, the pipeline reads a CSV file containing raw data using the Pandas library. Pandas is a widely used Python library for data manipulation, offering powerful tools to load, inspect, and process data stored in different formats. The script loads the file into a DataFrame, which makes it easy to explore column types, detect missing values, and separate features from the target variable. This initial extraction is crucial for understanding the structure of the dataset and identifying which transformations are needed to prepare it for modeling.
 
