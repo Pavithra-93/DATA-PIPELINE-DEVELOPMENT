@@ -30,6 +30,6 @@ In the Load step, the transformed data is converted back into a Pandas DataFrame
 
 The project was developed entirely in PyCharm, using Python 3.10, Pandas, and scikit-learn. This approach demonstrates a practical, professional workflow for data preparation, enabling efficient and repeatable pipelines for machine learning.
 
-###OUTPUT:
+### OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/187cc1a6-7321-44b8-9798-f2fa2f85577d)
